@@ -19,7 +19,7 @@
     "ensure-error": "^4.0.0"
   },
   "devDependencies": {
-    "@octokit/plugin-paginate-rest": "^5.0.1",
+    "@octokit/plugin-paginate-rest": "^11.4.1",
     "@octokit/webhooks-definitions": "^3.67.3",
     "@types/node": "^16.11.7",
     "@vercel/ncc": "^0.34.0",
